@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://miehohxahj.hu3sky.ooo/sitemap.xml
